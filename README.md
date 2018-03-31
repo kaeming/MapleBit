@@ -1,10 +1,4 @@
-MapleBit
-============
-Welcome to the MapleBit Github page. MapleBit is a Content Management System (CMS). The CMS is currently in Beta testing, and is considered to be both stable and secure. 
-
-Installation
-============
-To install the CMS, you need to upload the entire .zip to your web server. Then, extract the .zip, and open your browser. Navigate to the location in which you extracted the .zip. You'll be presented with a web based installer. Next, enter in your database connection details, and configure your website. Once you've done this, the installer will lock itself and redirect you to your website.
+Updates in private git --
 
 Features
 ============
